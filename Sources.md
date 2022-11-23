@@ -6,7 +6,7 @@ Cloud computing: https://www.youtube.com/watch?v=RwbIMBSr8o8&list=RDCMUC5cs06DgL
 Microservice: https://www.youtube.com/watch?v=ucHwp1jUS2w&list=RDCMUC5cs06DgLFeyLIF_II7lWCQ&index=2
 Podman: https://www.youtube.com/watch?v=eYwf3_gGjLE
 
-Littérature: 
+**Littérature:** 
 Docker introduction: https://www.docker.com/resources/what-container/
 AWS Docker introduction: https://aws.amazon.com/fr/docker/
 
